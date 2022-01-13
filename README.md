@@ -6,13 +6,13 @@ Os dados estão no formato ASCII CSV. As linhas do arquivo CSV contêm uma inst�
 
 Atributos do conjunto de dados:
 
-name - nome do assunto ASCII e número de gravação;
-MDVP:Fo(Hz) - Frequência fundamental vocal média;
-MDVP:Fhi(Hz) - Frequência fundamental vocal máxima;
-MDVP:Flo(Hz) - Frequência fundamental vocal mínima;
-MDVP:Jitter(%),MDVP:Jitter(Abs),MDVP:RAP,MDVP:PPQ,Jitter:DDP - Várias medidas de variação na frequência fundamental;
-MDVP:Shimmer,MDVP:Shimmer(dB),Shimmer:APQ3,Shimmer:APQ5,MDVP:APQ,Shimmer:DDA - Várias medidas de variação de amplitude;
-NHR,HNR - Duas medidas de proporção de ruído para componentes tonais na voz status - Estado de saúde do sujeito: 1 = Parkinson, 0 = Saudável;
-RPDE,D2 - Duas medidas de complexidade dinâmica não linear;
-DFA - Expoente de dimensionamento fractal de sinal;
-spread1,spread2,PPE - Três medidas não lineares de variação da frequência fundamental.
+*    name - nome do assunto ASCII e número de gravação;
+*    MDVP:Fo(Hz) - Frequência fundamental vocal média;
+*    MDVP:Fhi(Hz) - Frequência fundamental vocal máxima;
+*    MDVP:Flo(Hz) - Frequência fundamental vocal mínima;
+*    MDVP:Jitter(%),MDVP:Jitter(Abs),MDVP:RAP,MDVP:PPQ,Jitter:DDP - Várias medidas de variação na frequência fundamental;
+*    MDVP:Shimmer,MDVP:Shimmer(dB),Shimmer:APQ3,Shimmer:APQ5,MDVP:APQ,Shimmer:DDA - Várias medidas de variação de amplitude;
+*    NHR,HNR - Duas medidas de proporção de ruído para componentes tonais na voz status - Estado de saúde do sujeito: 1 = Parkinson, 0 = Saudável;
+*    RPDE,D2 - Duas medidas de complexidade dinâmica não linear;
+*    DFA - Expoente de dimensionamento fractal de sinal;
+*    spread1,spread2,PPE - Três medidas não lineares de variação da frequência fundamental.
